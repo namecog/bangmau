@@ -1,0 +1,151 @@
+#all{
+	width: 600px;
+	height: 600px;
+	background: red;
+	margin: auto;
+}
+.dong{
+	width: 600px;
+	height: 200px;
+	background: blue;
+}
+.xam {
+	width: 200px;
+	height: 200px;
+	background:  grey;
+	float: left;
+}
+.trang {
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left	;
+}
+
+
+#tatca {
+	width: 1000px;
+	height: 400px;
+	background: grey;
+	margin: auto;
+}
+.line {
+	width: 1000px;
+	height: 200px;
+	background: red;
+}
+.do {
+	width: 200px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+.white {
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left;
+}
+.vang {
+	width: 200px;
+	height: 200px;
+	background: yellow;
+	float: left;
+}
+.green {
+	width: 200px;
+	height: 200px;
+	background: green;
+	float: left;
+}
+.blue {
+	width: 200px;
+	height: 200px;
+	background: blue;
+	float: left;
+}
+.tim {
+	width: 200px;
+	height: 200px;
+	background: purple;
+	float: left;
+}
+
+
+#all1 {
+	width: 450px;
+	height: 900px;
+	margin: auto;
+} 
+#line1 {
+	width: 250px;
+	height: 50px;
+	background: white;
+	margin-left: 100px;
+}
+#red1 {
+	width: 250px;
+	height: 50px;
+	background: red;
+	float: left;
+}
+#grey1 {
+	width: 50px;
+	height: 250px;
+	float: left;
+	background: grey;
+}
+#grey2 {
+	width: 50px;
+	height: 250px;
+	float: right;
+	background: grey;
+}
+#line2 {
+	width: 350px;
+	height: 50px;
+	background: white;
+	margin-left: 50px;
+}
+#red2 {
+	width: 350px;
+	height: 50px;
+	background: red;
+	float: left;
+}
+#grey3 {
+	width: 50px;
+	height: 250px;
+	float: left;
+	background: grey;
+}
+#grey4 {
+	width: 50px;
+	height: 250px;
+	float: right;
+	background: grey;
+}
+
+#line3 {
+	width: 450px;
+	height: 300px;
+	background: white;
+}
+#red3 {
+	width: 450px;
+	height: 50px;
+	background: red;
+	float: left;
+}
+#grey5 {
+	width: 50px;
+	height: 250px;
+	float: left;
+	background: grey;
+}
+#grey6 {
+	width: 50px;
+	height: 250px;
+	float: right;
+	background: grey;
+}
